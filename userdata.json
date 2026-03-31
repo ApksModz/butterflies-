@@ -9,7 +9,7 @@
         "device_id": "0629a91517171131",
         "key": "pk",
         "expirydate": "20-04-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     } , 
     {
         "device_id": "04e75203e1251b0",
